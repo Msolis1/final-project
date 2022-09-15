@@ -1,0 +1,23 @@
+.hero-image {
+    background-image: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+  /*image is fixed in background all other elements are scrolling*/  
+  /*background attachement makes image fixed*/
+    background-attachment: fixed;
+    position: relative;
+    background-position: center;
+}
+ .navbar {
+    background-color: rgb(168, 184, 195);
+ }
+.offcanvas {
+    background-color: rgb(139, 165, 189);
+}
+
+/* .videothumbnail {
+        height: 50%;
+        width: 10%;
+        float: center;
+} */
