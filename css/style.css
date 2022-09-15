@@ -13,11 +13,12 @@
     background-color: rgb(168, 184, 195);
  }
 .offcanvas {
-    background-color: rgb(139, 165, 189);
+    background-color: #8ba5bd;
 }
 
-/* .videothumbnail {
-        height: 50%;
-        width: 10%;
-        float: center;
-} */
+h1, h2, h3, h4, h5 {
+    font-family: yanone;
+}
+p {
+    font-family: oswald;
+}
