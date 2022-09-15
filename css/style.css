@@ -10,11 +10,16 @@
     background-position: center;
 }
 
-.offcanvas {
-    background-color: #8ba5bd;
+body {     
+    background-color: #f3c26d;
+
 }
+.offcanvas {
+    background-color: #718190;
+}
+
 h1 {
-    font-family:'Monoton', cursive;
+    font-family:'oswald'
 
 }
 h2, h3, h4, h5 {
@@ -22,4 +27,8 @@ h2, h3, h4, h5 {
 }
 p {
     font-family: oswald;
+}
+.iframe {
+    
+
 }
